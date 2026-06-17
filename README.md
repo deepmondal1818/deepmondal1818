@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9¢er=true&vCenter=true&width=600&lines=Building+full+stack+apps+%F0%9F%9A%80;Training+ML+models+%F0%9F%A7%A0;Solving+DSA+problems+%F0%9F%92%AA;Open+to+internships+%26+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepmondal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-mondal-82085b342)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepmondal1818)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepmndl2003@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/deepmondal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Deep_Mondal/)
 ![Profile Views](https://komarev.com/ghpvc/?username=deepmondal1818&style=for-the-badge&color=6E40C9)
 
 </div>
@@ -155,19 +155,9 @@ Responsive personal portfolio with CSS animations and clean layout.
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech CSE | Kalyani Government Engineering College | 2022–2026 | — |
-| Higher Secondary (WBCHSE) | Maliara R.N. High School | 2019–2021 | 88.4% |
-| Secondary (WBBSE) | Nityanandapur High School | 2018–2019 | 80.2% |
-
----
-
 ## 💡 DSA & Problem Solving
 
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Deep_Mondal/)
 
 Topics: **Arrays · Trees · Dynamic Programming · Greedy Algorithms**
 Focus: Time & space optimized solutions
@@ -181,4 +171,5 @@ Focus: Time & space optimized solutions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%"/>
 
 </div>
+    
     
