@@ -111,14 +111,13 @@ A 3-phase ML analytics platform combining Poisson modelling, Random Forest, and 
 ### 🎵 Spotify Clone
 Full Spotify UI clone with custom audio controls, responsive front-end and backend design.
 
-**Stack:** `HTML` `CSS` `JavaScript`
-
+**Stack:** `HTML` `CSS` `JavaScript` 'React' "NodeJS' 'ExpressJS' 'API'
 ---
 
 ### 🌐 Personal Portfolio
 Responsive personal portfolio with CSS animations and clean layout.
 
-**Stack:** `HTML` `CSS` `JavaScript`
+**Stack:** `HTML` `CSS` `JavaScript` 'React'
 
 </td>
 </tr>
