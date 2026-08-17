@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180§ion=header&text=Deep%20Mondal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180§ion=header&text=Deep%20Mondal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9¢er=true&vCenter=true&width=600&lines=Building+full+stack+apps+%F0%9F%9A%80;Training+ML+models+%F0%9F%A7%A0;Solving+DSA+problems+%F0%9F%92%AA;Open+to+internships+%26+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9¢er=true&vCenter=true&width=600&lines=Building+full+stack+apps+%F0%9F%9A%80;Designing+REST+APIs+%F0%9F%94%A7;Writing+tested+production-ready+code+%F0%9F%A7%AA;Exploring+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Solving+DSA+problems+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-mondal-82085b342)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepmondal1818)
@@ -16,15 +16,19 @@
 
 ## 🧑‍💻 About Me
 
-> *Full Stack Developer & ML Enthusiast from West Bengal, India.*
+> *Software Development Engineer & Full Stack Developer from West Bengal, India.*
 > *B.Tech CSE @ Kalyani Government Engineering College (2022–2026)*
 
-- 🔭 Currently building **AI-powered full stack projects**
-- 🧠 Working on **ML pipelines, LLMs & RAG systems**
-- 🏆 Solved **100+ LeetCode problems** (arrays, trees, DP, greedy)
+- 🔭 Currently building **full-stack web applications**
+- ⚙️ Working with **React.js, Node.js, Express.js, FastAPI & Python**
+- 🔌 Building and testing **REST APIs & backend services**
+- 🧪 Focused on **unit/integration testing with Jest & PyTest**
+- 🚀 Exploring **Docker, CI/CD & GCP**
+- 🧠 Strong foundation in **DSA, OOP & DBMS**
+- 🏆 Solved **100+ LeetCode problems**
 - 🌍 Based in **West Bengal, India**
 - 📬 Reach me: **deepmndl2003@gmail.com**
-- 💼 Open to **internships, collaborations & full-time roles**
+- 💼 Open to **Software Engineer & Full Stack Developer opportunities**
 
 ---
 
@@ -58,15 +62,21 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=scikit-learn&logoColor=white)
+![Ensemble Modelling](https://img.shields.io/badge/Ensemble_Modelling-6E40C9?style=flat-square&logo=python&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🧪 Testing & DevOps
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -78,6 +88,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
@@ -96,32 +107,61 @@
 <td width="50%">
 
 ### ⚽ LaLiga Match Prediction System
-A 3-phase ML analytics platform combining Poisson modelling, Random Forest, and a Dixon-Coles + XGBoost stacking ensemble with isotonic calibration and walk-forward cross-validation.
+A full-stack ML analytics platform combining React.js and FastAPI with an end-to-end pipeline from data ingestion and feature engineering to prediction display.
 
-**Stack:** `Python` `React` `FastAPI` `XGBoost` `Dixon-Coles`
+**Stack:** `React.js` `FastAPI` `Python` `XGBoost` `MongoDB`
 
 **Highlights:**
-- Multi-source match data pipelines
-- H2H stats + injury-adjusted features
-- Evaluated with Log Loss & RPS metrics
+- Multi-source data pipelines for cleaning, transformation & feature engineering
+- H2H statistics + injury-adjusted parameters
+- Stacking ensemble using Dixon-Coles, XGBoost & Random Forest
+- Isotonic calibration + walk-forward cross-validation
+- Above 95% prediction accuracy
+- Unit-tested REST endpoints with validation & error handling
 
 </td>
 <td width="50%">
 
 ### 🎵 Spotify Clone
-Full Spotify UI clone with custom audio controls, responsive front-end and backend design.
+Full-stack music streaming application replicating core product flows with a responsive React frontend and Node/Express backend.
 
-**Stack:** `HTML` `CSS` `JavaScript` 'React' "NodeJS' 'ExpressJS' 'API'
+**Stack:** `React.js` `Node.js` `Express.js` `REST APIs`
+
+**Highlights:**
+- REST APIs for streaming, playlists & session handling
+- Custom audio controls
+- Responsive desktop & mobile UI
+- End-to-end full-stack product flow
+
 ---
 
 ### 🌐 Personal Portfolio
-Responsive personal portfolio with CSS animations and clean layout.
+Responsive personal portfolio built with reusable React components, clean UI architecture and CSS animations.
 
-**Stack:** `HTML` `CSS` `JavaScript` 'React'
+**Stack:** `React.js` `HTML5` `CSS3` `JavaScript`
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧪 Engineering Practices
+
+- 🧪 Write **unit & integration tests** using Jest and PyTest
+- 🔄 Build **CI/CD pipelines** with GitHub Actions
+- 🐳 Containerize applications using **Docker**
+- ☁️ Apply **GCP cloud fundamentals**
+- 🔌 Design and test **REST APIs** with validation and error handling
+- 🤝 Follow **Agile/Scrum**, sprint planning, documentation and code reviews
+- 🧠 Apply strong fundamentals in **DSA, OOP & DBMS**
+
+---
+
+## 📜 Certification
+
+🎓 **Google Cloud Certification: Cloud Developer Professional Certificate**  
+*Google Cloud — via Coursera*
 
 ---
 
@@ -158,8 +198,16 @@ Responsive personal portfolio with CSS animations and clean layout.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Deep_Mondal/)
 
-Topics: **Arrays · Trees · Dynamic Programming · Greedy Algorithms**
-Focus: Time & space optimized solutions
+Topics: **Arrays · Trees · Dynamic Programming · Greedy Algorithms**  
+Focus: **Time & space optimized solutions**
+
+---
+
+## 🎓 Education
+
+**B.Tech, Computer Science & Engineering**  
+Kalyani Government Engineering College  
+**Graduation: July 2026**
 
 ---
 
@@ -170,5 +218,3 @@ Focus: Time & space optimized solutions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%"/>
 
 </div>
-    
-    
